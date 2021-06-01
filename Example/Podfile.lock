@@ -1,0 +1,16 @@
+PODS:
+  - ChinmayCocoaPods (0.1.0)
+
+DEPENDENCIES:
+  - ChinmayCocoaPods (from `../`)
+
+EXTERNAL SOURCES:
+  ChinmayCocoaPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ChinmayCocoaPods: 7a07eebec8c4775ec1214114ebaac7cd31d0ab63
+
+PODFILE CHECKSUM: 084f380cc7ef2e993c9f3a3098b727d7655a6e6b
+
+COCOAPODS: 1.10.1

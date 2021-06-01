@@ -1,0 +1,6 @@
+framework module ChinmayCocoaPods {
+  umbrella header "ChinmayCocoaPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
